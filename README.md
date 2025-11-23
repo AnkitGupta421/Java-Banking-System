@@ -49,7 +49,7 @@ Usage Instructions
 ## Screenshots
 
 Main Menu
-![main]screenshots/main.jpeg)
+![main](screenshots/main.jpeg)
 
 Transaction
 
@@ -57,4 +57,4 @@ Transaction
 
 ![Second](screenshots/transaction2.jpeg)
 
-![Third([screenshots/transaction3.jpeg)
+![Third](screenshots/transaction3.jpeg)
