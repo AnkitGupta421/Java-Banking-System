@@ -49,12 +49,12 @@ Usage Instructions
 ## Screenshots
 
 Main Menu
-![main][screenshots/main.jpeg]
+![main]screenshots/main.jpeg)
 
 Transaction
 
-![First][screenshots/transaction1.jpeg]
+![First](screenshots/transaction1.jpeg)
 
-![Second][screenshots/transaction2.jpeg]
+![Second](screenshots/transaction2.jpeg)
 
-![Third][screenshots/transaction3.jpeg]
+![Third([screenshots/transaction3.jpeg)
